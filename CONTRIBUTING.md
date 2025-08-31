@@ -7,3 +7,7 @@ Vielen Dank, dass Sie an unserem Projekt interessiert sind! Hier sind einige Mö
 3. **Feedback**: Feedback über Ihre Erfahrungen ist ebenfalls willkommen!
 
 Bitte stellen Sie sicher, dass Sie vor dem Senden eines Pull Requests die [Richtlinien für Pull Requests](#) lesen.
+
+## Verhaltenskodex
+
+Wir verlangen von allen Mitwirkenden, dass sie die [Verhaltensrichtlinien](#) respektieren, um eine positive und inklusive Umgebung zu fördern.
